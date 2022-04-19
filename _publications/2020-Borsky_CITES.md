@@ -14,3 +14,4 @@ citation: 'Borsky, S., Hennighausen, H.B., Leiter-Scheiring, A. and Williges, K.
 In an econometric analysis, we give evidence that an international  environmental trade agreement could be used to limit the spread of  zoonotic pathogens and disease. More specifically, combining zoonotic  disease data with wildlife trade data from the Convention on  International Trade in Endangered Species of Wildlife and Fauna (CITES), we show that making trade requirements more stringent leads to a decrease in the number of animals traded and, incidentally, also the  number of zoonotic diseases that are traded. Our results contribute to  the discussion of policy measures that manage the spread of zoonotic  diseases.
 
 Recommended citation: Borsky, S., Hennighausen, H.B., Leiter-Scheiring, A. and Williges, K. (2020) CITES and the Zoonotic Disease Content of International Wildlife Trade. *Environmental and Resource Economics*, **76**: 1001-1017.
+
