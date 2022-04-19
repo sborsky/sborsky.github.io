@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 for a long CV click <a href="https://sborsky.github.io/files/CV-Stefan_Borsky_long.pdf" target="_blank">here.</a>
+
+---
 
 
 Education
