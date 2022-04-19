@@ -9,51 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+for a long CV click [here]()
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, University of Innsbruck, 2011
+* MBA. in International Business Admin., University of Vienna, 2006
 
-Work experience
+Academic positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* since October 2016: Assistant Professor
+  * Wegener Center for Climate and Global Change, University of Graz, Austria
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Nov 2014-Sept 2016: Assistant Professor
+  * Department of Environmental & Business Econonomics, University of Southern Denmark
 
-Publications
+* Nov 2011-Nov 2014: Postdoctoral Researcher
+  * Department of Environmental & Business Econonomics, University of Southern Denmark.
+
+* Oct 2007-Oct 2011: Research and Teaching Assistant
+  * Department of Public Economics, University of Innsbruck, Austria.
+
+Other professional positions
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Nov 2010-Mar 2011: Economic Advisory
+  * Forestry Department, Government of Tyrol, Austria.
+
+* Jun 2007-Oct 2009: Researcher (Economics)
+  * alpS – Centre for Natural Hazard and Risk Management, Austria.
   
-Talks
+Research Interests
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Climate Change Impacts, Urbanisation, International Trade in Natural Resources, Resource Exploitation and Economic Development, Spatial Economic Analysis.
