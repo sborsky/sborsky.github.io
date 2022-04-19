@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-for a long CV click <a href="https://sborsky.github.io/files" target="_blank">CV</a>
+for a long CV click <a href="https://sborsky.github.io/files" target="_blank">here.</a>
 <html><iframe width="100%" height="1000" src="https://sborsky.github.io/files/CV_Borsky_Stefan.pdf "></iframe>
 
 
