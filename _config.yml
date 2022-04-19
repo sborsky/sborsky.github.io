@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Stefan Borsky"
-  avatar           : "profile.png"
+  avatar           : "https://sborsky.github.io/files/Foto_Borsky_S.jpg"
   bio              : "Estimating climate impacts and researching other related Env/Dev-Econ topics."
   location         : "Graz, Austria"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.at/citations?user=kNauRZkAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Stefan-Borsky"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
