@@ -2,7 +2,7 @@
 title: "Corruption in Space: A closer look at the world's subnations"
 collection: publications
 permalink: /publication/2019-Borsky_CORRUPTION
-excerpt: 'Analyzing a large sample of 1232 subnational regions from 81 countries, we show heterogenous spatial spillovers in subnational regions´ corruption levels.'
+excerpt: 'Analyzing a large sample of 1232 subnational regions from 81 countries, we show heterogenous spatial spillovers in subnational regions corruption levels.'
 date: 1/1/2019
 venue: 'European Journal of Political Economy'
 paperurl: 'https://doi.org/10.1016/j.ejpoleco.2019.05.004'
