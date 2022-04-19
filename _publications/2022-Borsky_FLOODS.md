@@ -2,7 +2,7 @@
 title: "Public flood risk mitigation and the homeowner´s insurance demand response"
 collection: publications
 permalink: /publication/2022-Borsky_FLOODS
-excerpt: 'Investigating the influence of public risk mitigating activities on individuals' decisions to privately mitigate their disaster risks through changes in their risk perceptions.'
+excerpt: 'Investigating the influence of public risk mitigating activities on individuals´ decisions to privately mitigate their disaster risks through changes in their risk perceptions.'
 date: 1/2/2022
 venue: 'Land Economics'
 paperurl: 'http://le.uwpress.org/content/early/2022/01/20/le.98.4.061720-0088R2.refs'
