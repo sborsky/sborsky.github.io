@@ -1,12 +1,12 @@
 ---
-title: "Corruption in Space: A closer look at the world's subnations"
+title: "CITES and the Zoonotic Disease Content of International Wildlife Trade"
 collection: publications
-permalink: /publication/2019-Borsky_CORRUPTION
-excerpt: 'Analyzing a large sample of 1232 subnational regions from 81 countries, we show heterogenous spatial spillovers in subnational regions' corruption levels.'
-date: 1/1/2019
-venue: 'European Journal of Political Economy'
-paperurl: 'https://doi.org/10.1016/j.ejpoleco.2019.05.004'
-citation: 'Borsky, S. and Kalkschmied, K. (2019) Corruption in Space: A closer look at the world's subnations. European Journal of Political Economy, 59: 400-422.'
+permalink: /publication/2020-Borsky_CITES
+excerpt: 'In an econometric analysis, we give evidence that an international  environmental trade agreement could be used to limit the spread of  zoonotic pathogens and disease.'
+date: 1/1/2020
+venue: 'Environmental and Resource Economics'
+paperurl: 'https://link.springer.com/article/10.1007/s10640-020-00456-7'
+citation: 'Borsky, S., Hennighausen, H.B., Leiter-Scheiring, A. and Williges, K. (2020) CITES and the Zoonotic Disease Content of International Wildlife Trade. Environmental and Resource Economics, 76: 1001-1017.'
 ---
 
 <a href='https://doi.org/10.1016/j.ejpoleco.2019.05.004'>Download paper here</a>
