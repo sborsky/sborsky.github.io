@@ -14,8 +14,6 @@ venue: 'Journal of Environmental Management'
 In this paper, we analyze the phosphorus balance as a result of manure application on the parish level for Denmark and investigate its local geographic distribution. For our analysis, we determine phosphorus loads for the five main animal groups and the phosphorus demand of the fifteen major crop categories. Our results show that there is a large variability in the phosphorus balance within Denmark. Due to industry agglomeration, statistically significant hot spots appear mainly along the west coast, while cold spots are predominantly present on the southern and eastern coasts towards the Baltic Sea. As shown in the Figure underneath, the proximity of oversupply areas to water bodies and other environmentally sensitive areas reinforces the need for further phosphorus regulation. Our findings show the importance of a combined spatially targeted regulation, which allows different levels of phosphorus application depending on local economic and environmental circumstances, in combination with subsidizing manure processing technologies in phosphorus hot spots.
 
 <br /> 
-<br /> 
-
 
 
 <p align="center"> 
