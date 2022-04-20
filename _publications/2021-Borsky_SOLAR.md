@@ -6,7 +6,7 @@ excerpt: 'Studying the role of market structure in the diffusions of solar homes
 date: 1/1/2021
 venue: 'Environmental Innovation and Societal Transitions'
 paperurl: 'https://doi.org/10.1016/j.eist.2021.10.015'
-citation: 'Zaman, R. and Borsky, S. (2021) The impact of supply structure on solar home system installations in rural off-grid areas. Environmental Innovation and Societal Transitions, 40: 625-644.'
+citation: 
 ---
 
 <a href='https://doi.org/10.1016/j.eist.2021.10.015'>Download paper here</a>
