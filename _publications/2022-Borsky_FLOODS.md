@@ -15,7 +15,7 @@ This paper investigates the influence of public risk mitigating activities on in
 
 ---
 
-Borsky, S. and Hennighausen, H. (2022) Public flood risk mitigation and the homeowner's insurance demand response. *Land Economics*, forthcoming.
+Citation: Borsky, S. and Hennighausen, H. (2022) Public flood risk mitigation and the homeowner's insurance demand response. *Land Economics*, forthcoming.
 
 ---
 

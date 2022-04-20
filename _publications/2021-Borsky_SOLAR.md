@@ -13,5 +13,9 @@ venue: 'Environmental Innovation and Societal Transitions'
 
 This paper investigates the impact of market concentration on solar home system installations in rural off-grid energy markets of Bangladesh. We use an extensive dataset that includes 4.11 million solar home systems installed in 503 markets over  15 years (2003–2017). We show that an increase in the degree of market concentration reduces both the number and the total capacity of  installed solar home systems after controlling for relevant demand- and supply-side factors. We find heterogeneous effects of market concentration depending on the size of the installed solar home system and customer  group. Our study emphasizes the importance of markets in the emergence and diffusion of renewable energy technologies. 
 
-Recommended citation: Zaman, R. and Borsky, S. (2021) The impact of supply structure on solar home system installations in rural off-grid areas. *Environmental Innovation and Societal Transitions*, **40**: 625-644.
+---
+
+Citation: Zaman, R. and Borsky, S. (2021) The impact of supply structure on solar home system installations in rural off-grid areas. *Environmental Innovation and Societal Transitions*, **40**: 625-644.
+
+---
 
