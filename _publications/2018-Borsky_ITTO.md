@@ -3,7 +3,7 @@ title: "Product quality and sustainability: The effect of international environm
 collection: publications
 permalink: /publication/2018-Borsky_ITTO
 excerpt: 'In this paper, we examine the effect of a sustainable product standard agreement on international trade with tropical timber for participating as well as for third countries.'
-date: 1/1/2020
+date: 1/1/2018
 venue: 'The World Economy'
 # paperurl: ' https://doi.org/10.1111/twec.12718'
 # citation: 'Borsky, S., Leiter, A., and Pfaffermayr, M. (2018) Product quality and sustainability: The effect of international environmental agreements on bilateral trade. The World Economy, 41(11): 3098-3129.'

@@ -3,7 +3,7 @@ title: "Identifying phosphorus hot spots: A spatial analysis of the phosphorus b
 collection: publications
 permalink: /publication/2018-Borsky_PHOSPHORUS
 excerpt: 'In this paper, we analyze the phosphorus balance as a result of manure  application on the parish level for Denmark and investigate its local  geographic distribution.'
-date: 1/1/2018
+date: 1/1/2017
 venue: 'Journal of Environmental Management'
 # paperurl: 'https://doi.org/10.1016/j.jenvman.2018.01.082'
 # citation: 'Parchomenko, A. and Borsky, S. (2018) Identifying phosphorus hot spots: A spatial analysis of the phosphorus balance as a result of manure application. Journal of Environmental Management, 214: 137-148.'
