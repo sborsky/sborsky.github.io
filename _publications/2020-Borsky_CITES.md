@@ -16,7 +16,7 @@ In an econometric analysis, we give evidence that an international  environmenta
 </br>
 
 <p align="center"> 
-<img src="https://sborsky.github.io/images/cites1.jpg" width="400">
+<img src="https://sborsky.github.io/images/cites1s.jpg" width="400">
 </p>
 <p align="center">
 <font size="2">Mean potential zoonotic disease trade flows (in thousands of viruses) for the periods indicated.</font>
