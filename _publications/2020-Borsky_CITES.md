@@ -14,7 +14,7 @@ venue: 'Environmental and Resource Economics'
 
 Increased commercialization of wildlife and tighter trade networks have created a situation in which the scale and speed of zoonotic pathogen movement are historically unprecedented. This is shown in the Figures underneath. Figure 1 displays the development of international trade wildlife and with it potential zoonotic pathogens, which are traded internationally. Figure 2 gives insights into the extent of globalization in wildlife trade networks. In light of this development, we provide empirical evidence that an international environmental trade agreement could be used to limit the spread of zoonotic pathogens and diseases. More specifically, combining zoonotic disease data with wildlife trade data from the Convention on International Trade in Endangered Species of Wildlife and Fauna (CITES), we show that making trade requirements more stringent leads to a decrease in the number of animals traded and, incidentally, also the number of zoonotic diseases that are traded. Our results contribute to the discussion of policy measures that manage the spread of zoonotic diseases.
 
-< /br>
+<br />
 
 <p align="center"> 
 <img src="https://sborsky.github.io/images/cites2s.jpg" width="400">
@@ -25,7 +25,7 @@ Increased commercialization of wildlife and tighter trade networks have created 
 
 
 
-< /br>
+<br />
 
 
 <p align="center"> 
