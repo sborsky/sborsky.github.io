@@ -20,7 +20,7 @@ This paper investigates the impact of market concentration on solar home system 
 </p>
 <p align="center">
 <font size="2">Fig1: Distribution of the share of solar home system installations across thanas over time.</font>
-</p
+</p>
 
 
 
@@ -31,7 +31,7 @@ This paper investigates the impact of market concentration on solar home system 
 </p>
 <p align="center">
 <font size="2">Fig 2: Effects of market concentration on the number of installed solar home systems.</font>
-</p
+</p>
 
 ---
 
