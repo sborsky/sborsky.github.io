@@ -5,6 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin    : "dirt" #"default" , "air", "aqua", "contrast", "dark", , "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
 title                    : "Stefan Borsky / Climate Impacts"
@@ -87,7 +88,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.at/citations?user=kNauRZkAAAAJ&hl=en"
-  email            :
+  email            : "stefan.borsky@uni-graz.at"
   researchgate     :  "https://www.researchgate.net/profile/Stefan-Borsky"
   uri              :
   bitbucket        :
