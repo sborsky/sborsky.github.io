@@ -8,10 +8,10 @@
 minimal_mistakes_skin    : "dirt" #"default" , "air", "aqua", "contrast", "dark", , "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
-title                    : "Stefan Borsky / Climate Impacts"
+title                    : "Stefan Borsky / Climate Economics"
 title_separator          : "|"
 name                     : &name "Stefan Borsky"
-description              : &description "Ass.Prof. at the Wegener Center, University of Graz."
+description              : &description "Assoc. Prof. at the Wegener Center, University of Graz."
 url                      : https://sborsky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sborsky/sborsky.github.io"
@@ -84,7 +84,7 @@ author:
   name             : "Stefan Borsky"
   avatar           : "https://sborsky.github.io/files/Foto_Borsky_S.jpg"
   bio              : "Estimating climate impacts and researching other related Env/Dev-Econ topics."
-  location         : "Graz, Austria"
+  location         : "University of Graz, Austria"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.at/citations?user=kNauRZkAAAAJ&hl=en"
