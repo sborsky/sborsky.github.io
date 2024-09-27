@@ -1,6 +1,6 @@
 ---
 title: "Urban heat and within-city residential sorting"
-collection: publications
+collection: research
 permalink: /publication/2024-Borsky_HEAT
 excerpt: 'Analyzing how differences in urban heat at the census-tract level influence the location choices of New York City homeowners given their race, ethnicity, and income.'
 date: 1/9/2024
