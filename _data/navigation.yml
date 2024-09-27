@@ -2,13 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Research"
+        
+  - title: "Current Research"
     url: /research/
            
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Teaching/Supervision"
+    url: /teaching/    
