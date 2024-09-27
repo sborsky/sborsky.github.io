@@ -1,6 +1,6 @@
 ---
 title: "Political capture in distributing solar electricity access"
-collection: research
+collection: publications
 permalink: /research/2024-Borsky_SOLARPOL1
 excerpt: 'Investigating the impact of elected politicians' geographical representation on distributive decisions in a solar energy safety net program in Northern Bangladesh.'
 date: 1/9/2024
