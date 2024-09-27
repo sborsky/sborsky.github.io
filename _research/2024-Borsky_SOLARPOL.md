@@ -2,7 +2,7 @@
 title: "Political capture in distributing solar electricity access"
 collection: research
 permalink: /research/2024-Borsky_SOLARPOL
-excerpt: 'Analyzing how differences in urban heat at the census-tract level influence the location choices of New York City homeowners given their race, ethnicity, and income.'
+excerpt: 'Investigating the impact of elected politicians´ geographical representation on distributive decisions in a solar energy safety net program in Northern Bangladesh.'
 date: 1/9/2024
 venue: 'Journal of Environmental Economics and Management'
 # paperurl: 'https://www.sciencedirect.com/science/article/pii/S0095069624000883'
