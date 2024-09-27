@@ -3,7 +3,7 @@ title: "Political capture in distributing solar electricity access"
 collection: research
 permalink: /research/2024-Borsky_SOLARPOL
 excerpt: 'Investigating the impact of elected politicians´ geographical representation on distributive decisions in a solar energy safety net program in Northern Bangladesh.'
-date: 1/9/2024
+date: 1/3/2024
 # venue: 'Journal of Environmental Economics and Management'
 # paperurl: 'https://www.sciencedirect.com/science/article/pii/S0095069624000883'
 # citation: 'Borsky, S., Fesselmeyer, E., and Vogelsang, L. (2024) Urban heat and within-city residential sorting. Journal of Environmental Economics and Management, 127(2024): 103014.'
