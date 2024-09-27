@@ -2,7 +2,7 @@
 title: "Rural water availability and the growth of cities"
 collection: research
 permalink: /research/2024-Borsky_WATER
-excerpt: 'Uncovering how climate-driven agricultural productivity shocks in rural areas affect economic activity in nearby cities and towns in Sub-Saharan Africa..'
+excerpt: 'Uncovering how climate-driven agricultural productivity shocks in rural areas affect economic activity in nearby cities and towns in Sub-Saharan Africa.'
 date: 1/6/2024
 # venue: 'Journal of Environmental Economics and Management'
 # paperurl: 'https://www.sciencedirect.com/science/article/pii/S0095069624000883'
