@@ -1,5 +1,5 @@
 ---
-title: "Urban heat and within-city residential sorting"
+title: "Political capture in distributing solar electricity access"
 collection: research
 permalink: /research/2024-Borsky_SOLARPOL
 excerpt: 'Analyzing how differences in urban heat at the census-tract level influence the location choices of New York City homeowners given their race, ethnicity, and income.'
